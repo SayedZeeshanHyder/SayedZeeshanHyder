@@ -17,7 +17,7 @@
 
 - **B.E. in Computer Engineering**
 - **Institute:** TSEC Bandra(W) Mumbai
-- **Current Year:** 3rd Year (Semester 5)
+- **Current Year:** 4th Year (Semester 7)
 
 ## 🛠 Skills
 
